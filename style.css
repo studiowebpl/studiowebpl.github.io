@@ -1,0 +1,17 @@
+/**/
+
+@font-face {
+    font-family: 'EntezareZohoor2';
+    src: url('fonts/EntezareZohoor2.eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Body */
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.title {
+    font-size: 72px;
+}
