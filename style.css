@@ -1,10 +1,8 @@
-
-/* Body */
 body {
-    background-color: lightgoldenrodyellow;
-    font-family: 'Zen Kurenaido', sans-serif;
+    background-color: #ff6347;
+    color: black;
 }
 
-.title {
-    font-size: 72px;
+.slogan {
+    margin-top: -20px;
 }
